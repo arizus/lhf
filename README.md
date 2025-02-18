@@ -22,6 +22,6 @@ We are trying to add an anonymous arxiv submission. Please check back again soon
 Our own code and data are licensed under a **CC BY-S** licence. External datasets and third-party resources retain their original licences.  
 
 
-# Contact
+### Contact
 
 The paper is under review, which is why this repo is anonymous. You can open an issue to interact on technical content. 

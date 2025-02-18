@@ -8,7 +8,7 @@ Large Language Models (LLMs) are known to overuse certain words, such as *delve*
 
 ## Contents
 - **Paper:** The manuscript detailing our methodology, results, and conclusions.
-- **Code:** The scripts used for our work.
+- **Code:** The scripts used for our work. pipeline.md will talk you through the code step by step. 
 - **Data:** The data analysed in the paper.
 
 ## Citation

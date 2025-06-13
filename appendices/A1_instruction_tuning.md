@@ -68,3 +68,7 @@ We find no conclusive evidence that words overused by AI are also overused in hu
 ## References
 
 Galpin, R., Anderson, B., & Juzek, T. S. (2025, May). *Exploring the Structure of AI-Induced Language Change in Scientific English*. In *The International FLAIRS Conference Proceedings* (Vol. 38).
+
+## Visualization
+
+![Illustration_of_overused_words_for_instruction_data_vs_baseline](instruction.jpg)

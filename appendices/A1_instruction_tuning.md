@@ -21,7 +21,7 @@ As a baseline, we used all PubMed abstracts from the year 2020 (337.6 million to
 
 We used the list of 34 overused words identified in Galpin et al. (2025). Of these, 29 occurred in the PubMed 2020 dataset and were included in our analysis here.
 
-PubMed 2020 abstracts serve as the baseline. We measured the relative change in normalized frequencies (occurrences per million words; *opm*) in the combined instruction dataset. A chi-square test was performed for each word to test for statistically significant differences—this test is well suited to the data structure.
+PubMed 2020 abstracts serve as the baseline. We measured the relative change in normalized frequencies (occurrences per million words; *opm*) in the combined instruction dataset. A chi-square test was performed for each word to test for statistically significant differences, this test is well suited to the data structure.
 
 ## Results
 

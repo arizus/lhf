@@ -21,7 +21,15 @@ As a baseline, we used all PubMed abstracts from the year 2020 (337.6 million to
 
 We used the list of 34 overused words identified in Galpin et al. (2025). Of these, 29 occurred in the PubMed 2020 dataset and were included in our analysis here.
 
-PubMed 2020 abstracts serve as the baseline. We measured the relative change in normalized frequencies (occurrences per million words; *opm*) in the combined instruction dataset. A chi-square test was performed for each word to test for statistically significant differences, this test is well suited to the data structure.
+PubMed 2020 abstracts serve as the baseline. We measured the relative change in normalized frequencies (occurrences per million words; *opm*) in the combined instruction dataset. A chi-square test was performed for each word to test for statistically significant differences, this test is well suited to the data structure. 
+
+## Expectations
+
+This is a cross-domain comparison, so substantial differences are to be expected, regardless of whether instruction tuning contributes to lexical overuse. 
+
+If the instruction tuning datasets were not a significant source of lexical overuse in academic texts (H0), we would expect exactly that: notable variation when comparing instruction data to a human-authored baseline (PubMed abstracts), with some words appearing considerably more often, and others considerably less. 
+
+However, if instruction tuning is a source of lexical overuse in academic English as produced by LLMs (H1), we would expect a clear majority of the words in question to appear significantly more often in the instruction tuning datasets than in the human baseline.
 
 ## Results
 
